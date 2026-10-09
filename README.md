@@ -3,7 +3,7 @@
 <!--
 **cao-kenny/cao-kenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 你好，我是 kennycao 👋
+你好，我是 kennycao 👋
 
 正在学习前端，目前主要练 HTML、CSS 和 JavaScript，之前学过一部分 C#。
 
